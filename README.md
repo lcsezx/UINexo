@@ -4,7 +4,7 @@
 ## Carregar
 
 ```lua
-local Nexo = loadstring(game:HttpGet("https://raw.githubusercontent.com/lcsezx/UINexo/init.lua"))()
+local Nexo = loadstring(game:HttpGet("https://github.com/lcsezx/UINexo/blob/main/init.lua"))()
 ```
 
 ## Criar Janela
